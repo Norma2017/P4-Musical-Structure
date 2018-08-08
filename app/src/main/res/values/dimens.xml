@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="twmt">120dp</dimen>
+    <dimen name="twmt1">80dp</dimen>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/androidchildren"
+    tools:context="com.example.android.p4_childrensaudiolibrary_normacmartinez.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/stories"
+            style="@style/CustomTextview"
+            android:layout_marginTop="@dimen/twmt1"
+            android:background="@color/orange"
+            android:text="@string/historias_para_ni_os_y_ni_as" />
+
+        <TextView
+            android:id="@+id/fables"
+            style="@style/CustomTextview"
+            android:layout_marginTop="@dimen/twmt"
+            android:background="@color/bluelight"
+            android:text="@string/f_bulas" />
+
+    </LinearLayout>
+
+</ScrollView>

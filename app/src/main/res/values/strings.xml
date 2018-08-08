@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">P4-Children\'s audio library-NormaCMartinez</string>
+    <string name="historias_para_ni_os_y_ni_as">Historias para Niños y Niñas</string>
+    <string name="f_bulas">Fábulas</string>
+    <string name="El_asno_y_las_cigarras">El asno y las cigarras</string>
+    <string name="El_cuervo_y_la_zorra">El cuervo y la zorra</string>
+    <string name="El_viento_y_el_sol">El viento y el sol</string>
+    <string name="La_cigarra_y_la_hormiga">La cigarra y la hormiga</string>
+    <string name="La_zorra_y_las_uvas">La zorra y las uvas</string>
+    <string name="El_perro_y_el_reflejo_en_el_rio">El perro y el reflejo en el rio</string>
+    <string name="El_caballo_y_el_asno">El caballo y el asno</string>
+    <string name="El_asno_el_caballo_y_el_león">El asno, el caballo y el león</string>
+    <string name="El_asno_el_gallo_y_el_león">El asno, el gallo y el león</string>
+</resources>
